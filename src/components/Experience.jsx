@@ -56,6 +56,18 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
+      icon: Cpu,
+      title: "Online Data Analyst (Freelancer)",
+      company: "TELUS Digital",
+      period: "May 2025–Present",
+      description: [
+        "Evaluating AI-generated content for accuracy, factual correctness, groundedness, and adherence to composition standards using internal guidelines.",
+        "Categorizing and annotating search queries based on user intent to support large-scale supervised ML model training.",
+        "Providing qualitative feedback to improve AI response logic and enhance model outputs for real-world user experience."
+      ]
+    },
+     
+    {
       icon: Network,
       title: "Machine Learning Engineer (Intern)",
       company: "Memorial University of Newfoundland",
