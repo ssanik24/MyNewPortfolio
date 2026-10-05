@@ -57,19 +57,19 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Cpu,
-      title: "Online Data Analyst (Freelancer)",
-      company: "TELUS Digital",
-      period: "May 2025–Present",
+      title: "Junior AI Engineer",
+      company: "C-Core",
+      period: "Apr 2026–Present",
       description: [
-        "Evaluating AI-generated content for accuracy, factual correctness, groundedness, and adherence to composition standards using internal guidelines.",
-        "Categorizing and annotating search queries based on user intent to support large-scale supervised ML model training.",
-        "Providing qualitative feedback to improve AI response logic and enhance model outputs for real-world user experience."
+        "Building risk-scoring detectors that flag vessels of interest from AIS behaviour.",
+        "Developing models that correlate vessel targets across satellite imagery, AIS, and RF data for maritime domain awareness.",
+        "Building production ML pipelines covering training data preparation, model evaluation, and monitoring."
       ]
     },
      
     {
       icon: Network,
-      title: "Machine Learning Engineer (Intern)",
+      title: "Software/Research Developer (Intern)",
       company: "Memorial University of Newfoundland",
       period: "Sep 2024-Dec 2024",
       description: [
@@ -84,7 +84,7 @@ const ExperienceSection = () => {
       company: "North South University",
       period: "Sep 2019-Feb 2022",
       description: [
-        "Published three journal articles and two book chapters showcasing expertise in advanced ML algorithms across domains, with over 60 citations.",
+        "Published three journal articles and two book chapters showcasing expertise in advanced ML algorithms across domains, with over 80 citations.",
         "Implemented different classification, clustering, and hybrid neural network models with my research team of five people.",
         "Conducted research in diverse domains, including healthcare analytics (COVID-19 transmission modeling), geospatial analysis (flood risk assessment), and transportation safety (accident severity prediction)."
       ]

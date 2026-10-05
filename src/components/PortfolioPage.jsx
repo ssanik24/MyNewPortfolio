@@ -15,7 +15,7 @@ const AboutMe = () => {
   </p>
 
   <p className="text-lg leading-relaxed mb-4">
-    During my internship at MUN, I worked on time series analysis and anomaly detection, implementing DBSCAN and Isolation Forest on industrial datasets. I have authored 5 research papers with 55+ citations, contributing to flood risk assessment, fuzzy logic modeling, and road safety analysis.
+    During my internship at MUN, I worked on time series analysis and anomaly detection, implementing DBSCAN and Isolation Forest on industrial datasets. I have authored 5 research papers with 80+ citations, contributing to flood risk assessment, fuzzy logic modeling, and road safety analysis.
   </p>
 
   <p className="text-lg leading-relaxed">
